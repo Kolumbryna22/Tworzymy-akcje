@@ -4,5 +4,3 @@
 ```sh
 $ npm install
 ```
-
-### Redux actions are in actions.js
